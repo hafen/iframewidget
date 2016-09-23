@@ -11,6 +11,8 @@
 #' @import htmlwidgets
 #'
 #' @export
+#' @examples
+#' iframewidget("http://purdue.edu")
 iframewidget <- function(src, width = NULL, height = NULL, elementId = NULL) {
 
   x <- list(
