@@ -1,0 +1,13 @@
+\.git
+^\.travis\.yml$
+\.DS_Store
+..Rcheck
+CONTRIBUTING\.md
+^_ignore$
+\.sublime\-
+.Rproj
+^\.httr-oauth$
+cran-comments.md
+.lintr.*
+_gh-pages
+.codecov.yml
