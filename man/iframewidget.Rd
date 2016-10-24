@@ -18,4 +18,7 @@ string and have \code{'px'} appended.}
 \description{
 Take a specified URL and render it in an iframe
 }
+\examples{
+iframewidget("http://purdue.edu")
+}
 
